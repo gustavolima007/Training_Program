@@ -1,4 +1,17 @@
-# Leaning_Python
-This area is just for study and learn Python.
+## Training Plan
 
-# To Nobie level to Supreme Master Level
+Nowadays I'm a Support Analyst, and I will change my area position to Developer / Data Scientist.
+
+## What I will learn:
+
+Stage 1: March, April, May and June
+
+* Python Language
+* Blockchain Developer
+* SQL and Oracle Database
+
+
+Stage 2: July and August
+
+* Scrum Foundation
+* Machine Learning  

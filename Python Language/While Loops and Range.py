@@ -24,7 +24,7 @@ def count(numbers):
 
 list_1 = [1, 3, 4, 5, 15 ,23, 60, 100]
 
-count(numbers)
+count()
 
 
 
