@@ -1,4 +1,4 @@
 # Leaning_Python
 This area is just for study and learn Python.
 
-# To Nobie level to Ninja Master Level
+# To Nobie level to Supreme Master Level
