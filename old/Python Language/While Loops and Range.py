@@ -11,22 +11,3 @@ print("\nCreate Lists with the range() Function: " )
 x = range(5, 50, 4)
 for r in x:
     print(r, end = " ")
-
-
-#List
-print("\n\nList: " )
-def count(numbers):
-    total = 0
-    for x in numbers:
-        if x < 20:
-            total += 1
-    return total
-
-list_1 = [1, 3, 4, 5, 15 ,23, 60, 100]
-
-count()
-
-
-
-
-#arrrumaaarrrr

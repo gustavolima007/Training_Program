@@ -1,4 +1,4 @@
-## Training Plan
+## Training Plan 2021
 
 Nowadays I'm a Support Analyst, and I will change my area position to Developer / Data Scientist.
 
@@ -15,3 +15,7 @@ Stage 2: July and August
 
 * Scrum Foundation
 * Machine Learning  
+
+
+Remove Blockchain
+Add APIs

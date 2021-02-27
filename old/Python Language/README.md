@@ -3,7 +3,7 @@ This area is just for study and learn Python.
 
 # To Nobie level to Supreme Master Level
 
-What I learned in the First week
+What I've learned
 
 - Basic Syntaxe
 - Variables and Strings
