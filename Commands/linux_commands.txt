@@ -1,0 +1,15 @@
+How to install linux files
+
+- Download the file
+- Decompress
+
+tar xf [filename]
+
+- configure file to install
+
+./configure
+./configure --enable-optimizations
+make
+sudo make install
+
+=---------------------------=--------------------------=
