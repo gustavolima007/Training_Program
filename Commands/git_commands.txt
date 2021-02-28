@@ -1,0 +1,9 @@
+Git commands
+
+$ git status
+
+$ git add -A
+
+$ git commit -m "Description"
+
+# $ git add -p, (To change and separate)
