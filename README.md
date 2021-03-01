@@ -11,9 +11,19 @@ Stage 1: March, April, May and June
 
 Stage 2: July and August
 
-* Machine Learning  
-* Learn about Scrum
 * Learn about APIs
 * Learn about Kubernetes (K8s)
+* Learn about Scrum
+* Machine Learning
 
-System: Linux Pop_OS!
+=---------------------------=--------------------------=
+
+$ Just code
+
+- Hackathon
+- Expand Networking
+- Get ready to work
+
+=---------------------------=--------------------------=
+
+$ System: Linux Pop_OS!

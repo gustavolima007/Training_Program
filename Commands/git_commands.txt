@@ -2,8 +2,16 @@ Git commands
 
 $ git status
 
-$ git add -A
+$ git add -A 
 
 $ git commit -m "Description"
 
-# $ git add -p, (To change and separate)
+$ git push
+
+=---------------------------=--------------------------=
+
+$ git add -p, (To change and separate)
+
+$ git reset (To deleted sensitive information or something like that)
+
+$ git log (Browse and inspect the evolution of project files)
