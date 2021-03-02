@@ -34,7 +34,7 @@ print(matrix, '\n')
 new_list = [1, 2, 3, 5, 8]
 print(new_list)
 
-new_list.insert(3, 4)
+new_list.insert(3, 4) # to add information in a specific position of the list
 print(new_list)
 
 # extend - to add more information
@@ -50,3 +50,11 @@ print(new_list, '\n')
 # OR - use Clear to remove all
 new_list.clear()
 print(new_list)
+
+# What I have learn in this section
+#1 - basket.remove('Banana')
+#2 - basket.pop()
+#3 - basket.append('Kiwi')
+#4 - basket.insert(0, 'Apples')
+#5 - basket.count('Apples')
+#6 - basket.clear()
