@@ -1,0 +1,41 @@
+LISTS - What i have learn
+
+Example: new_variable.remove()
+
+sort. = to put the list in sequence
+
+reverse. = to put the list in reverse
+
+[::-1] = to put the list in reverse
+
+append. = to add more information to the list
+
+insert. = to modify the list
+
+extend. = to add more information
+
+pop. = to remove information to the list
+
+remove. = to remove information to the list
+
+clear. = to remove all information of the list
+
+
+EXAMPLES:
+
+# What I have learn in this section
+#1 - basket.remove('Banana')
+#2 - basket.pop()
+#3 - basket.append('Kiwi')
+#4 - basket.insert(0, 'Apples')
+#5 - basket.count('Apples')
+#6 - basket.clear()
+
+=---------------------------=--------------------------=
+
+Learn section
+
+print(selfish[2:4]) # start at 2 and stop at 4, result = 2 and 3. 23
+print(selfish[:5]) # start at 0 and stop at 5
+print(selfish[:9:2]) # start at 0, stop at 9, and jump 2 numbers
+print(selfish[::-1]) # the result is Reverse, When we use minus (-), its for reverse

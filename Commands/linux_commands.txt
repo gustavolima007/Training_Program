@@ -13,3 +13,23 @@ $ make
 $ sudo make install
 
 =---------------------------=--------------------------=
+# change 'username' to your user name
+
+To add user in Linux Ubuntu/Pop_OS?
+
+$ usermod -aG sudo username
+
+To give root access to the user. Restart the computer and click ESC.
+- Go to Advanced Setup, and after click in Linux Recovery Mode
+- Click in Root, to open the Root terminal
+- Open the file sudoers and add the follow commands
+
+$ visudo
+$ username ALL=(ALL) NOPASSWD: ALL
+
+- After restart the computer, and open the terminal
+- run this command to add your root passwd.
+
+$ sudo passwd root
+
+=---------------------------=--------------------------=
