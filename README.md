@@ -16,6 +16,10 @@ Stage 2: July and August
 * Learn about Scrum
 * Machine Learning
 
+Stage 3:
+
+* Create projects during the Training
+
 =---------------------------=--------------------------=
 
 $ Just code
@@ -23,6 +27,16 @@ $ Just code
 - Hackathon
 - Expand Networking
 - Get ready to work
+
+=---------------------------=--------------------------=
+
+Final Project
+
+* Brazilian Companies: How to discover the best time to invest in.
+    * Python
+    * SQL
+    * HTML/CSS
+    * Knowledge of the Brazilian Stock Market
 
 =---------------------------=--------------------------=
 
