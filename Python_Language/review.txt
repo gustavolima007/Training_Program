@@ -59,3 +59,15 @@ dictionary2 = {
 print(dictionary2[1]['b']) # Let's do it
 print(dictionary2[0]['x']) # True
 print(dictionary2[1]['a'][4]) # 55
+
+
+# Set Methods
+
+# .difference()
+# .discard()
+# .difference_update()
+# .intersection()
+# .isdisjoint()  -  nothing in common
+# .issubset()
+# .issuperset()
+# .union()   -   united the set together
