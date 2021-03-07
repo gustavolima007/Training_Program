@@ -46,7 +46,7 @@ print(dictionary2[1]['a'][4])
 print('\n')
 
 # dictionary using dict()
-user2 = dict(name='JohnJohn', name2 = 'LindaRobson')
+user2 = dict(name='JohnJohn', name2='LindaRobson')
 print(user2)
 
 print('\n')

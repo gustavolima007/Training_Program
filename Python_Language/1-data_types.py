@@ -12,7 +12,7 @@ print(first_variable)
 
 # -------
 
-a,b,c = 1,2,3
+a, b, c = 1, 2, 3
 print(a)
 print(b)
 print(c)
@@ -27,7 +27,7 @@ print(user_age)
 
 # augmented assignment operator
 some_value = 5
-#some_value += 2 / some_value = some_value + 2
+# some_value += 2 / some_value = some_value + 2
 #some_value += 2
 some_value *= 2
 

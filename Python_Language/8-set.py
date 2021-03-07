@@ -27,11 +27,11 @@ print('\n')
 # .issuperset()
 # .union()   -   united the set together
 
-set_example = {1,2,3,4,5}
-set_example2 = {1,2,3,4,5}
-set_example3 = {4,5}
+set_example = {1, 2, 3, 4, 5}
+set_example2 = {1, 2, 3, 4, 5}
+set_example3 = {4, 5}
 
-your_set = {4,5,6,7,8,9,10}
+your_set = {4, 5, 6, 7, 8, 9, 10}
 
 print(set_example.difference(your_set))
 print('\n')
@@ -47,7 +47,7 @@ print('\n')
 print(set_example2.intersection(your_set))
 print('\n')
 
-print(set_example2.isdisjoint(your_set)) # nothin in common, so is false
+print(set_example2.isdisjoint(your_set))  # nothin in common, so is false
 print('\n')
 
 print(set_example2.union(your_set))

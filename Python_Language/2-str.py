@@ -44,7 +44,7 @@ selfish = '01234567879'
 # [start:stop:stepover]
 
 print(selfish[5])
-print(selfish[2:4]) # start at 2 and stop at 4, result = 2 and 3. 23
-print(selfish[:5]) # start at 0 and stop at 5
-print(selfish[:9:2]) # start at 0, stop at 9, and jump 2 numbers
-print(selfish[::-1]) # the result is Reverse, When we use minus (-), its for reverse
+print(selfish[2:4])  # start at 2 and stop at 4, result = 2 and 3. 23
+print(selfish[:5])  # start at 0 and stop at 5
+print(selfish[:9:2])  # start at 0, stop at 9, and jump 2 numbers
+print(selfish[::-1])  # the result is Reverse, When we use minus (-), its for reverse

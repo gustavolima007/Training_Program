@@ -1,7 +1,7 @@
 # You are working for the school Principal. We have a database of school students:
-school = {'Bobby','Tammy','Jammy','Sally','Danny'}
+school = {'Bobby', 'Tammy', 'Jammy', 'Sally', 'Danny'}
 
-#during class, the teachers take attendance and compile it into a list.
+# during class, the teachers take attendance and compile it into a list.
 attendance_list = ['Jammy', 'Bobby', 'Danny', 'Sally']
 
 # using what you learned about sets, create a piece of code that the school principal can use to immediately find out who missed
