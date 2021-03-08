@@ -25,5 +25,6 @@ print( 5 != 5)
 print(not(1 == 1))
 print(not(True))
 print(not(False))
+print([1,2,3] == [1,2,3])
 
 print('\n')
