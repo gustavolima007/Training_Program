@@ -1,3 +1,18 @@
+Python - what i have learn in this section
+
+* None
+* bool
+* int
+* float
+
+* str
+* list
+* tuple
+* dict
+* set
+
+=---------------------------=--------------------------=
+
 LISTS - What i have learn
 
 Example: new_variable.remove()
@@ -19,7 +34,6 @@ pop. = to remove information to the list
 remove. = to remove information to the list
 
 clear. = to remove all information of the list
-
 
 EXAMPLES:
 
@@ -71,3 +85,9 @@ print(dictionary2[1]['a'][4]) # 55
 # .issubset()
 # .issuperset()
 # .union()   -   united the set together
+
+=---------------------------=--------------------------=
+
+Loops"
+
+FOR LOOPS AND WHILE LOOPS

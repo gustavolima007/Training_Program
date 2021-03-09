@@ -1,6 +1,7 @@
 ## Training Plan 2021
 
-Nowadays I'm a Support Analyst, and I will change my area position to IT Developer.
+Training to Python developer
+Learning: Python and SQL
 
 ## What I will learn:
 
