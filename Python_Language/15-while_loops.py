@@ -9,11 +9,12 @@
 # while i < 50:
 #   print(i)
 
+
 # to finish the loop, we use Break
 i = 0
 while i < 10:
     print(i)
-    i += 1 # this line will stop the loop
+    i += 1  # this line will stop the loop
 else:
     print('Done with all the work')
 
@@ -21,8 +22,15 @@ print('\n')
 
 # i = index
 
+# decrement loop with while loops
+i = 5
+
+while i > 0:
+    print(i)
+    i += -1
+
 # Other example
-my_list = [1,2,3]
+my_list = [1, 2, 3]
 i = 0
 while i < len(my_list):
     print(my_list[i])
