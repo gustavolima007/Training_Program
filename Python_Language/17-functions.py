@@ -21,12 +21,16 @@ def image_one():
                 print('@', end='')
         print('')
 
+
 image_one()
 image_one()
 
 # parameters
+
+
 def informations(name, age, city):
     print(f'Hello {name}, do you have {age} years old and live in {city} city.')
+
 
 # arguments
 informations('Gustavo Lima', '22', 'SP')
@@ -35,4 +39,4 @@ informations('Lima', '25', 'WA')
 informations('James Bond', '45', 'NY')
 # keyword arguments
 informations(age=16, city='NY', name='Sherk')
-informations(name='Sherk', age=16, city='NY') # this is better
+informations(name='Sherk', age=16, city='NY')  # this is better
