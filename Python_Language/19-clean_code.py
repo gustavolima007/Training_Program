@@ -9,7 +9,7 @@
 # print(is_even(51))
 
 
-# better way
+# Other way
 
 # def is_even(num):
 #    if num % 2 == 0:
