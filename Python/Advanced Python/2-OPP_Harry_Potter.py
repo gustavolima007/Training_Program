@@ -25,3 +25,7 @@ print(player1, player2)  # this will show the memory location
 print('\n')
 
 print(player2.run())  # this will print and return the function of run()
+
+print('\n')
+
+help(player2)
