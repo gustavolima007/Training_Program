@@ -135,5 +135,29 @@
 #
 # print(duplicates)
 
+#
+# #find duplicates
+#
+# list = [1,2,2,3,4,5,6,7,8,9,9]
+#
+# number = []
+#
+# for item in list:
+#     if list.count(item) > 1:
+#         if item not in number:
+#             number.append(item)
+#
+# print(number)
 
-#find duplicates
+# # ---------------------
+#
+# points = [1,4,2,9,7,8,9,3,1]
+#
+# number = []
+#
+# for i in points:
+#     if points.count(i) > 1:
+#         if i not in number:
+#             number.append(i)
+#
+# print(number)
