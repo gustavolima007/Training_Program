@@ -12,6 +12,7 @@ class PlayerCharacter:
         return 'done'
 
 
+# Instantiate
 player1 = PlayerCharacter('Hermione Granger', 22)
 player2 = PlayerCharacter('Ronald Weasley', 23)
 

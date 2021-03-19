@@ -21,3 +21,13 @@ def my_func(**kwargs):
 
 
 my_func(result=50, result2=50)
+
+
+
+# https://www.programiz.com/python-programming/args-and-kwargs
+# Things to Remember:
+
+# *args and **kwargs are special keyword which allows function to take variable length argument.
+# *args passes variable number of non-keyworded arguments list and on which operation of the list can be performed.
+# **kwargs passes variable number of keyword arguments dictionary to function on which operation of a dictionary can be performed.
+# *args and **kwargs make the function flexible.

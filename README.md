@@ -3,7 +3,7 @@
 Training to Python developer
 Learning: Python and SQL
 
-March|Python 100daysofcode 12/100
+March|Python 100daysofcode 13/100
 
 ## What I will learn:
 
