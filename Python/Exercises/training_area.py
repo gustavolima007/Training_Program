@@ -161,3 +161,9 @@
 #             number.append(i)
 #
 # print(number)
+# start a loop with the list
+
+list = [1,2,3,4,5,6]
+
+for i in list:
+    print(i)
