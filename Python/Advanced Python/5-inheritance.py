@@ -1,1 +1,0 @@
- # Inheritance has two __init__ two organize the code

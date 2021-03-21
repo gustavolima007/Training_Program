@@ -8,7 +8,7 @@ dict = {
     1: 20
 }
 
-dict.update({2:30})
+dict.update({2: 30})
 
 print(dict.keys())
 print(dict.values())
