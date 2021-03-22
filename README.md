@@ -3,7 +3,7 @@
 Training to Python developer
 Learning: Python and SQL
 
-March|Python 100daysofcode 15/100
+March|Python 100daysofcode 16/100
 
 ## What I will learn:
 
@@ -12,7 +12,7 @@ Stage 1: March, April, May and June
 * Python Language
 * SQL and Database
 
-Stage 2: July and August
+Stage 2: July, August, September and October
 
 * Learn about APIs
 * Learn about Kubernetes and Docker
