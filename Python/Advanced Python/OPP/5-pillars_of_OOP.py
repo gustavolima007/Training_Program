@@ -1,4 +1,10 @@
+# Encapsulation
+# Abstraction
 # Inheritance
+# Polymorphism
+
+# In OOP we have this 4 pillars
+
 
 class User():
     def sign_in(self):

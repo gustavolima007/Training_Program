@@ -1,9 +1,9 @@
 ## Training Plan 2021
 
-Training to Python developer
-Learning: Python and SQL
+Training to Python Developer
 
-March|Python 100daysofcode 16/100
+March|Python 100daysofcode 17/100
+
 
 ## What I will learn:
 
@@ -15,32 +15,31 @@ Stage 1: March, April, May and June
 Stage 2: July, August, September and October
 
 * Learn about APIs
-* Learn about Kubernetes and Docker
+* Learn about Kubernetes
+* Learn about Docker
 * Learn about Scrum
 * Machine Learning
 
-Stage 3:
-
-* Create projects during the Training
-
-=---------------------------=--------------------------=
+=------------------=------------------=
 
 $ Just code
 
-- Hackathon
+- Hackathons
 - Expand Networking
-- Get ready to work
+- Get ready to work man!
 
-=---------------------------=--------------------------=
+=------------------=------------------=
 
 Final Project
 
-* Brazilian Companies: How to discover the best time to invest in.
+* Brazilian Companies | Stock Market:
+  
+  How to discover the best time to invest in.
     * Python
     * SQL
-    * HTML/CSS
+    * HTML/CSS/Javascript
     * Knowledge of the Brazilian Stock Market
-
-=---------------------------=--------------------------=
+  
+=------------------=------------------=
 
 $ System: Linux Pop_OS!
