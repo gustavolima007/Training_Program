@@ -36,6 +36,8 @@ for i in number:
 print('\nExercise 4: Print multiplication table of a given number '
       'For example, num = 2 so the output should be\n')
 
+
+
 print('\nExercise 5: Given a list, iterate it, and display numbers divisible by five, '
       'and if you find a number greater than 150, stop the loop iteration.\n')
 
