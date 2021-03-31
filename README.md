@@ -2,7 +2,7 @@
 
 Training to Python Developer
 
-Python & SQL - 100daysofcode 24/100
+Python & SQL - 100daysofcode 25/100
 
 
 ## What I will learn:
