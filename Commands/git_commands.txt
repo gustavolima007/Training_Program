@@ -15,3 +15,16 @@ $ git add -p, (To change and separate)
 $ git reset (To deleted sensitive information or something like that)
 
 $ git log (Browse and inspect the evolution of project files)
+
+=---------------------------=--------------------------=
+
+How to Git large files
+
+# git lfs install
+# git lfs track "*.sql"
+# git add .gitattributes
+# git status
+# git add .
+# git commit -m "Large Files"
+# git push origin master
+
