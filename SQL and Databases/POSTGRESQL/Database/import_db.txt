@@ -1,3 +1,0 @@
-Use the Data sql files to import the Postgres Database
-
-Program: Valentina Studio
