@@ -1,0 +1,23 @@
+For loops exercises:
+
+1 - Show me a list with 0 to 50, just the even numbers.
+
+2 - Do a list 0 to 500, with just the odd number, and then sum all multiples of 3
+
+3 - Create a 7 multiplication table
+
+4 - Show a list with 6 numbers, and sum just the even numbers. Example: 1, 2, 3, 4, 5, 6 - Result = 12
+
+5 - Create a count of the last 10 seconds of the year, and show a Fireworks messenger.
+    All 10 numbers must appear in slow motion of 1 second.
+
+While loops
+
+6 - # write a code that reads the sex of the people (Male or Female).
+# exemple: insert your sex (M/F):
+# if the program recive M or F, its stop and show a messenger 'You are Male/You are Female.'
+# But if recive another word will restart the question.
+
+7 - # write a code with a question, "From 1 to 10, try to guess the number to win!"
+# if he guess a number, and got it right, show a win messenger, else, try again!
+# use While loop

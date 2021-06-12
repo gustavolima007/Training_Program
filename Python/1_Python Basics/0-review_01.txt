@@ -1,0 +1,96 @@
+Python - what i have learn in this section
+
+* None
+* bool
+* int
+* float
+
+* str
+* list
+* tuple
+* dict
+* set
+
+=---------------------------=--------------------------=
+
+LISTS - What i have learn
+
+Example: new_variable.remove()
+
+sort. = to put the list in sequence
+
+reverse. = to put the list in reverse
+
+[::-1] = to put the list in reverse
+
+append. = to add more information to the list
+
+insert. = to modify the list
+
+extend. = to add more information individual
+
+pop. = to remove information to the list
+
+remove. = to remove information to the list
+
+clear. = to remove all information of the list
+
+EXAMPLES:
+
+# What I have learn in this section
+#1 - basket.remove('Banana')
+#2 - basket.pop()
+#3 - basket.append('Kiwi')
+#4 - basket.insert(0, 'Apples')
+#5 - basket.count('Apples')
+#6 - basket.clear()
+
+=---------------------------=--------------------------=
+
+Learn section
+
+print(selfish[2:4]) # start at 2 and stop at 4, result = 2 and 3. 23
+print(selfish[:5]) # start at 0 and stop at 5
+print(selfish[:9:2]) # start at 0, stop at 9, and jump 2 numbers
+print(selfish[::-1]) # the result is Reverse, When we use minus (-), its for reverse
+
+=---------------------------=--------------------------=
+
+DICTIONARY - how its works
+
+dictionary2 = {
+    'a': [1, 2, 3, 4],
+    'b': 'Hello',
+    'x': True,
+    'z': None
+},            {
+    'a': [1, 2, 3, 4, 55, 6, 7, 800],
+    'b': 'Let\'s do it',
+    'x': False,
+    'z': None
+}
+
+print(dictionary2[1]['b']) # Let's do it
+print(dictionary2[0]['x']) # True
+print(dictionary2[1]['a'][4]) # 55
+
+
+# Set Methods
+
+# .difference()
+# .discard()
+# .difference_update()
+# .intersection()
+# .isdisjoint()  -  nothing in common
+# .issubset()
+# .issuperset()
+# .union()   -   united the set together
+
+=---------------------------=--------------------------=
+
+Things to Remember:
+
+*args and **kwargs are special keyword which allows function to take variable length argument.
+*args passes variable number of non-keyworded arguments list and on which operation of the list can be performed.
+**kwargs passes variable number of keyword arguments dictionary to function on which operation of a dictionary can be performed.
+*args and **kwargs make the function flexible.
