@@ -12,7 +12,6 @@
 ---
 
 * Flutter
-
 * Scrum
 * Machine Learning
 
