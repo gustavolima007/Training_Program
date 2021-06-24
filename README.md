@@ -1,17 +1,16 @@
 #Play Hard and Code Hard!
 
+* SQL and Databases
+
+---
+
 * Python Language
-* SQL and Database
 
 ---
 
 * API Rest
 * Kubernetes
 * Docker
-
----
-
-* Flutter
 * Scrum
 * Machine Learning
 
